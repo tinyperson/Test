@@ -1,0 +1,1 @@
+average.scm,good-enough.scm,improve.scm,sqrt.scm,sqrt-iter.scm are Square Roots by Newton's Method.
